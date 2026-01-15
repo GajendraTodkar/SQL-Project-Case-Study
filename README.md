@@ -1,6 +1,6 @@
 # 🚀 SQL Project Case Study (Pizza Sales Analysis)
 
-## 🎯 Project Overview:
+## 🎯 Project Overview
 
 This SQL project revolves around a database schema designed to manage and analyze data for a pizza store.  
 The database consists of four primary tables: order_details, pizzas, orders, and pizza_types.  
@@ -14,24 +14,24 @@ Below is a detailed description of each table and its columns:
 
 ----
 
-## 📉 Relevance to a Pizza Sales Store Manager:
+## 📉 Relevance to a Pizza Sales Store Manager
 
 A pizza sales store manager can utilize this SQL project to extract valuable insights and conduct detailed data analysis, facilitating informed decision-making and efficient management of the store's operations. Here are a few points illustrating the importance and utility of this database for a store manager:
 
-### - Sales Analysis: 
+### - Sales Analysis  
 By querying the order_details and pizzas tables, managers can identify the best-selling pizzas, assess revenue from different pizza sizes, and evaluate pricing strategies.
-### - Inventory Management: 
+### - Inventory Management 
 Analyzing the pizza_types and their ingredients helps in managing inventory more efficiently, ensuring that ingredients are stocked according to demand and reducing waste.
-### - Customer Preferences: 
+### - Customer Preferences 
 Through data gathered in the orders and pizzas tables, managers can track customer preferences over time, adjusting the menu to cater to popular choices and experimenting with new or seasonal offerings.
-### - Operational Efficiency: 
+### - Operational Efficiency 
 Date and time data from the orders table allow managers to assess peak hours and staff the store appropriately, ensuring operational efficiency and customer satisfaction.
-### - Marketing Insights: 
+### - Marketing Insights 
 Data analysis can also support targeted marketing campaigns, like promotions on specific types of pizzas that are popular or on days when sales are typically lower.
 
 ----
 
-## 📊 Key insights uncovered:  
+## 📊 Key insights uncovered  
 **• Identified top-selling pizzas and revenue drivers**  
 **• Analyzed peak order hours to improve operations**  
 **• Calculated daily & cumulative revenue using window functions**  
@@ -39,7 +39,7 @@ Data analysis can also support targeted marketing campaigns, like promotions on 
 
 ----
 
-## 🛠️ Tech Stack:  
+## 🛠️ Tech Stack  
 **• SQL Server**  
 **• Joins, CTEs, GROUP BY**  
 **• Window functions (OVER, PARTITION BY)**   
@@ -47,7 +47,7 @@ Data analysis can also support targeted marketing campaigns, like promotions on 
 
 ----
 
-## 📖 Conclusion:
+## 📖 Conclusion
 
 This SQL project demonstrates how raw transactional data can be transformed into business-ready insights for decision-making. And serves as a robust data management system but also as a strategic tool for business intelligence. By maintaining comprehensive data on every aspect of the store's operations, the database allows store managers to make precise adjustments to improve both customer experience and profitability.
 
