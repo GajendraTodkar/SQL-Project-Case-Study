@@ -1,6 +1,4 @@
-# SQL Project Case Study (Pizza Sales Analysis)\
-
---- 
+# SQL Project Case Study (Pizza Sales Analysis)
 
 ## Project Overview:
 
