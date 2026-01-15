@@ -1,6 +1,7 @@
 USE master;
 GO
-
+-- DATABASE CREATION --
+	
 IF EXISTS (SELECT 1 FROM sys.databases WHERE name = 'pizza_sale_analysis')
 BEGIN
 ALTER DATABASE pizza_sale_analysis  SET SINGLE_USER WITH ROLLBACK IMMEDIATE;
@@ -108,6 +109,7 @@ WITH (
 	   ROWTERMINATOR = '0x0a',
 	   TABLOCK );
 GO
+
 
 
 
